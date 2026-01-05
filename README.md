@@ -1,3 +1,8 @@
+<p>
+  Fork of the original repo integrated with tailwind (v4) - Follow instructions below.
+</p>
+
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
